@@ -1,0 +1,69 @@
+# Introdução a criação de websites com HTML5 e CSS3
+Estrutura básica
+-> Estrutura Básica
+	Criado por Tim Berners Lee
+	Elemento html
+
+*****************************************************
+# Entendendo o que é semântica
+-> Semântica - Parte 1
+	<section>
+	<header> 
+	<article>
+	<aside>
+	<footer>
+	<h1>-<h6>
+
+-> Semântica - Parte 2
+
+******************************************************
+# Como usar textos e links em HTML
+-> Tags para texto
+	<h1>Título para página</h1>
+	<h2>Título de seção</h2>
+	<h3>Título de artigo</h3>
+	<p>Conteúdo do artigo</p>
+
+-> tags para link
+<a>link</a>
+<a href="linkedin.com/in/wilson">Linkedin</a>
+<a href="mailto:lucas@email.com">email</a>
+<a target="_blank">Link</a> = abre em outra aba
+
+******************************************************
+# Como inserir imagens em seu site
+-> tag img
+	<img>
+	<img src="img/avatar.jpg>
+	<img alt="Foto de Lucas">
+
+******************************************************
+# Como organizar listas com HTML
+-> Tags li, ul e ol
+	<ul> - ordem dos itens não é importante
+	item 1
+	item 2
+
+	<ol> - ordem do item é importante
+	1. item 1
+	2. item 2
+
+	<li> - item da lista
+	
+
+# Introdução e conceitos básicos do CSS3
+-> Introdução ao CSS3
+	Criado em 1996
+	seletores - são elementos htmls
+	No html -> id="header" , No css =  #header
+		O id só pode ser usado uma vez na página
+	No html -> class="header" , No css =  .header 
+ 
+	
+
+
+
+
+
+
+
